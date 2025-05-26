@@ -4,7 +4,7 @@ This is the repository for the Jupyter notebooks and datasets used for the follo
 
 Michael T. Lopez II, Cheska Elise Hung, and Maria Regina Justina E. Estuar.\
 **Utilizing Dynamic Time Warping for Pandemic Surveillance: Understanding the Relationship between Google Trends Network Metrics and COVID-19 Incidences**\
-In Proceedings of the 9th International Conference on Medical and Health Informatics (ICMHI 2025)\
+In Proceedings of the IEEE International Conference on Advanced Machine Learning and Data Science (AMLDS 2025)\
 Link: https://arxiv.org/abs/2504.17146 (currently available as a pre-print on arXiv)
 
 This was the second part of the undergraduate thesis of Michael T. Lopez II and Cheska Elise Hung. Similarly, the supervisor for this project was Dr. Maria Regina Justina E. Estuar, PhD. 
