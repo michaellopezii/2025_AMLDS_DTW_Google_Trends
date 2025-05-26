@@ -34,7 +34,7 @@ All code and datasets here are our own. Please note to *not* directly use this G
 
 # See Also
 
-The precursor to this work was presented at ICMHI 2025. You may see on [this GitHub repository](https://github.com/michaellopezii/2025_ICMHI_Google_Trends_Network_Data) for a background on how the data preprocessing worked and scraping the data from Google Trends.
+The precursor to this work was presented at ICMHI 2025. You may see on [this GitHub repository](https://github.com/michaellopezii/2025_ICMHI_Google_Trends_Network_Data) for a background on how the data preprocessing worked and scraping of the data from Google Trends.
 
 # Acknowledgements
 
