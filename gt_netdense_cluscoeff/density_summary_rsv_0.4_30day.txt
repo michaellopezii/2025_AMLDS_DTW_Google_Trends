@@ -1,0 +1,12 @@
+Network Density Summary - rsv, threshold 0.4, 30day
+================================================================================
+
+Highest Density Values:
+--------------------
+Maximum: 0.5333 (Date: 2020-04-14)
+50th highest: 0.3048 (Date: 2020-09-27)
+
+Lowest Density Values:
+--------------------
+Minimum: 0.0381 (Date: 2021-02-01)
+50th lowest: 0.0857 (Date: 2021-02-21)

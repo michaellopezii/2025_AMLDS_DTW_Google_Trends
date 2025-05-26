@@ -1,0 +1,12 @@
+Network Density Summary - msv, threshold 0.8, 15day
+================================================================================
+
+Highest Density Values:
+--------------------
+Maximum: 0.1238 (Date: 2020-04-02)
+50th highest: 0.0095 (Date: 2020-06-12)
+
+Lowest Density Values:
+--------------------
+Minimum: 0.0000 (Date: 2020-04-12)
+50th lowest: 0.0000 (Date: 2020-07-23)

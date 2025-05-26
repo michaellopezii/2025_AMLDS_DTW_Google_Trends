@@ -1,0 +1,131 @@
+Clustering Coefficient Rankings Summary
+=====================================
+
+
+Configuration: msv_0.4_15day
+----------------------------
+Highest coefficient period: 2020-03-31 (0.5714)
+Lowest coefficient period: 2021-02-17 (0.0505)
+Top 50 range: 0.2110 - 0.5714
+Bottom 50 range: 0.0505 - 0.0835
+
+
+Configuration: msv_0.5_15day
+----------------------------
+Highest coefficient period: 2020-04-06 (0.2945)
+Lowest coefficient period: 2020-05-13 (0.0000)
+Top 50 range: 0.0352 - 0.2945
+Bottom 50 range: 0.0000 - 0.0044
+
+
+Configuration: msv_0.6_15day
+----------------------------
+Highest coefficient period: 2020-04-06 (0.1780)
+Lowest coefficient period: 2020-04-14 (0.0000)
+Top 50 range: 0.0066 - 0.1780
+Bottom 50 range: 0.0000 - 0.0000
+
+
+Configuration: msv_0.8_15day
+----------------------------
+Highest coefficient period: 2020-04-04 (0.0286)
+Lowest coefficient period: 2020-04-10 (0.0000)
+Top 50 range: 0.0000 - 0.0286
+Bottom 50 range: 0.0000 - 0.0000
+
+
+Configuration: msv_0.4_30day
+----------------------------
+Highest coefficient period: 2020-04-14 (0.4352)
+Lowest coefficient period: 2020-07-15 (0.0000)
+Top 50 range: 0.0593 - 0.4352
+Bottom 50 range: 0.0000 - 0.0022
+
+
+Configuration: msv_0.5_30day
+----------------------------
+Highest coefficient period: 2020-04-14 (0.3231)
+Lowest coefficient period: 2020-06-13 (0.0000)
+Top 50 range: 0.0154 - 0.3231
+Bottom 50 range: 0.0000 - 0.0000
+
+
+Configuration: msv_0.6_30day
+----------------------------
+Highest coefficient period: 2020-04-14 (0.1077)
+Lowest coefficient period: 2020-05-09 (0.0000)
+Top 50 range: 0.0044 - 0.1077
+Bottom 50 range: 0.0000 - 0.0000
+
+
+Configuration: msv_0.8_30day
+----------------------------
+Highest coefficient period: 2020-04-15 (0.0110)
+Lowest coefficient period: 2020-04-21 (0.0000)
+Top 50 range: 0.0000 - 0.0110
+Bottom 50 range: 0.0000 - 0.0000
+
+
+Configuration: rsv_0.4_15day
+----------------------------
+Highest coefficient period: 2020-04-06 (0.6681)
+Lowest coefficient period: 2021-03-06 (0.0462)
+Top 50 range: 0.2835 - 0.6681
+Bottom 50 range: 0.0462 - 0.0901
+
+
+Configuration: rsv_0.5_15day
+----------------------------
+Highest coefficient period: 2020-04-06 (0.3495)
+Lowest coefficient period: 2020-05-16 (0.0000)
+Top 50 range: 0.0615 - 0.3495
+Bottom 50 range: 0.0000 - 0.0044
+
+
+Configuration: rsv_0.6_15day
+----------------------------
+Highest coefficient period: 2020-04-06 (0.1341)
+Lowest coefficient period: 2020-05-03 (0.0000)
+Top 50 range: 0.0132 - 0.1341
+Bottom 50 range: 0.0000 - 0.0000
+
+
+Configuration: rsv_0.8_15day
+----------------------------
+Highest coefficient period: 2020-04-04 (0.0352)
+Lowest coefficient period: 2020-04-11 (0.0000)
+Top 50 range: 0.0000 - 0.0352
+Bottom 50 range: 0.0000 - 0.0000
+
+
+Configuration: rsv_0.4_30day
+----------------------------
+Highest coefficient period: 2020-04-14 (0.3121)
+Lowest coefficient period: 2020-11-08 (0.0000)
+Top 50 range: 0.0703 - 0.3121
+Bottom 50 range: 0.0000 - 0.0000
+
+
+Configuration: rsv_0.5_30day
+----------------------------
+Highest coefficient period: 2020-04-15 (0.1978)
+Lowest coefficient period: 2020-05-25 (0.0000)
+Top 50 range: 0.0220 - 0.1978
+Bottom 50 range: 0.0000 - 0.0000
+
+
+Configuration: rsv_0.6_30day
+----------------------------
+Highest coefficient period: 2020-04-14 (0.0879)
+Lowest coefficient period: 2020-05-18 (0.0000)
+Top 50 range: 0.0044 - 0.0879
+Bottom 50 range: 0.0000 - 0.0000
+
+
+Configuration: rsv_0.8_30day
+----------------------------
+Highest coefficient period: 2020-04-15 (0.0220)
+Lowest coefficient period: 2020-05-16 (0.0000)
+Top 50 range: 0.0000 - 0.0220
+Bottom 50 range: 0.0000 - 0.0000
+
