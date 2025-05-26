@@ -9,7 +9,7 @@ Link: https://arxiv.org/abs/2504.17146 (currently available as a pre-print on ar
 
 This was the second part of the undergraduate thesis of Michael T. Lopez II and Cheska Elise Hung. Similarly, the supervisor for this project was Dr. Maria Regina Justina E. Estuar, PhD. 
 
-The aim of this work is to investigate the similarity of the annual time-series between the network density and clustering coefficient network metrics of Google Trends data against the recorded active and confirmed disease cases during the COVID-19 pandemic. The timeline was from April 2020 until March 2021, and the geographic location is only within the MEtro Manila region.
+The aim of this work is to investigate the similarity of the annual time-series between the network density and clustering coefficient network metrics of Google Trends data against the recorded active and confirmed disease cases during the COVID-19 pandemic. The timeline was from April 2020 until March 2021, and the geographic location is only within the Metro Manila region.
 
 The generalized finding is that there is validity behind using Google Trends metrics into know the public's perspective on disease cases. More specifically, the confirmed cases within the entire time-series were more reliable alongside with the Google searches.
 
