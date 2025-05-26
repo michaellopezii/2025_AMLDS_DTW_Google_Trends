@@ -15,7 +15,7 @@ The generalized finding is that there is validity behind using Google Trends met
 
 # How To Cite
 
-All code and datasets here are our own. Please note to *not* directly use this GitHub repository to cite the original code. If you want to cite our work accordingly, please use the following BibTeX entry. The paper is currently available at the arXiv pre-print server. We will update it accordingly it has been indexed by the conference organizers.
+All code and datasets here are our own. Please note to *not* directly use this GitHub repository to cite the original code. If you want to cite our work accordingly, please use the following BibTeX entry. The paper is currently available at the arXiv pre-print server. We will update this accordingly once the paper has been indexed by the conference organizers.
 
 ```bibtex
 @misc{lopezUtilizing2025,
