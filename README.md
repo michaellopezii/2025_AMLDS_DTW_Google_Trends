@@ -15,7 +15,7 @@ The generalized finding is that there is validity behind using Google Trends met
 
 # How To Cite
 
-All code and datasets here are our own. Please note to *not* directly use this GitHub repository to cite the original code. If you want to cite our work accordingly, please use the following BibTeX code. The paper is currently available at the arXiv pre-print server.
+All code and datasets here are our own. Please note to *not* directly use this GitHub repository to cite the original code. If you want to cite our work accordingly, please use the following BibTeX entry. The paper is currently available at the arXiv pre-print server. We will update it accordingly it has been indexed by the conference organizers.
 
 ```bibtex
 @misc{lopezUtilizing2025,
@@ -35,4 +35,8 @@ All code and datasets here are our own. Please note to *not* directly use this G
 # See Also
 
 The precursor to this work was presented at ICMHI 2025. You may see on [this GitHub repository](https://github.com/michaellopezii/2025_ICMHI_Google_Trends_Network_Data) for a background on how the data preprocessing worked and scraping the data from Google Trends.
+
+# Acknowledgements
+
+We genuinely thank the Ateneo Social Computing Science Laboratory, and its parent organization, the Ateneo Center for Computing Competency and Research. Additional gratitude is also extended to Mr. Christian Pulmano (PhD Candidate) and Atty. Kennedy Espina for their insights on improving this aspect of the study.
 
